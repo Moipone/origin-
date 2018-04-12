@@ -4,11 +4,11 @@ using System.Text;
 
 namespace Checkers
 {
-    class Piece : IPiece
+    public class Piece : IPiece
     {
-        public Piece()
-        {
-        }
+        //public Piece()
+        //{
+        //}
 
         public Status Status => throw new NotImplementedException();
 

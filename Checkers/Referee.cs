@@ -4,11 +4,11 @@ using System.Text;
 
 namespace Checkers
 {
-    class Referee : IReferee
+    public class Referee : IReferee
     {
-        public Referee()
-        {
-        }
+        //public Referee()
+        //{
+        //}
 
         public bool IsDraw()
         {

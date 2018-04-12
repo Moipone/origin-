@@ -6,7 +6,7 @@ namespace Checkers
 
     class Program
     {
-        static void Main(string[] args)
+        static void GGMain(string[] args)
         {
             Console.WriteLine("Hello World!");
         }

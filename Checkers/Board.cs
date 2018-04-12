@@ -4,11 +4,11 @@ using System.Text;
 
 namespace Checkers
 {
-    class Board : IBoard
+    public class Board : IBoard
     {
-        public Board()
-        {
-        }
+        //public Board()
+        //{
+        //}
 
         public void Move(IPiece piece, int destination)
         {

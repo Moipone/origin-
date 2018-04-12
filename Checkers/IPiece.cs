@@ -8,7 +8,7 @@ namespace Checkers
     public enum Status { Captured, Active }
 
 
-    interface IPiece
+    public interface IPiece
     {
         IEnumerable<int> NormalMoves(IBoard board);
         IEnumerable<int> CapturingMoves(IBoard board);

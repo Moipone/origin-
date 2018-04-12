@@ -4,11 +4,11 @@ using System.Text;
 
 namespace Checkers
 {
-    class Player : IPlayer
+    public class Player : IPlayer
     {
-        public Player()
-        {
-        }
+        //public Player()
+        //{
+        //}
 
         public string Name => throw new NotImplementedException();
 
