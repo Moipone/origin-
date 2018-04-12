@@ -1,0 +1,9 @@
+\\ict.ru.ac.za\DFS\UGHomes\g16t1539\Desktop\2018\Checkers\Checkers.Test\bin\Debug\netstandard2.0\Checkers.Test.deps.json
+\\ict.ru.ac.za\DFS\UGHomes\g16t1539\Desktop\2018\Checkers\Checkers.Test\bin\Debug\netstandard2.0\Checkers.Test.dll
+\\ict.ru.ac.za\DFS\UGHomes\g16t1539\Desktop\2018\Checkers\Checkers.Test\bin\Debug\netstandard2.0\Checkers.Test.pdb
+\\ict.ru.ac.za\DFS\UGHomes\g16t1539\Desktop\2018\Checkers\Checkers.Test\obj\Debug\netstandard2.0\Checkers.Test.csprojResolveAssemblyReference.cache
+\\ict.ru.ac.za\DFS\UGHomes\g16t1539\Desktop\2018\Checkers\Checkers.Test\obj\Debug\netstandard2.0\Checkers.Test.csproj.CoreCompileInputs.cache
+\\ict.ru.ac.za\DFS\UGHomes\g16t1539\Desktop\2018\Checkers\Checkers.Test\obj\Debug\netstandard2.0\Checkers.Test.AssemblyInfoInputs.cache
+\\ict.ru.ac.za\DFS\UGHomes\g16t1539\Desktop\2018\Checkers\Checkers.Test\obj\Debug\netstandard2.0\Checkers.Test.AssemblyInfo.cs
+\\ict.ru.ac.za\DFS\UGHomes\g16t1539\Desktop\2018\Checkers\Checkers.Test\obj\Debug\netstandard2.0\Checkers.Test.dll
+\\ict.ru.ac.za\DFS\UGHomes\g16t1539\Desktop\2018\Checkers\Checkers.Test\obj\Debug\netstandard2.0\Checkers.Test.pdb
